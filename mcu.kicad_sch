@@ -9081,7 +9081,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TL7705AxPS"
+		(property "Value" "TL7705ACPS"
 			(at 58.0233 80.01 0)
 			(effects
 				(font
@@ -9144,6 +9144,10 @@
 		(instances
 			(project ""
 				(path "/29195ea4-8218-44a1-b4bf-466bee0082e4/00000000-0000-0000-0000-0000619ffb3c"
+					(reference "U48")
+					(unit 1)
+				)
+				(path "/29195ea4-8218-44a1-b4bf-466bee0082e4/00000000-0000-0000-0000-000061fc209f"
 					(reference "U48")
 					(unit 1)
 				)

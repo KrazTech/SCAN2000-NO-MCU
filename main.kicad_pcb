@@ -2391,6 +2391,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "b2a245a9-b5d5-46d5-8df1-b5bd287213db")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-0000621a92ce/00000000-0000-0000-0000-000061b65311")
 		(sheetname "/Relays/Input/Sense pins/")
@@ -3255,6 +3267,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8647f0e2-501a-4f53-a328-0fa1a2478d94")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -4176,6 +4200,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "c1ac3cd3-c81a-4303-8b7d-4ab2fe052698")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-000061fc3e67/00000000-0000-0000-0000-000062835e7d")
 		(sheetname "/Relays/Input pins/")
@@ -4875,6 +4911,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "dc5f2570-a706-4dc7-9bcc-32f232e44363")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -6120,6 +6168,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "4a2adfd7-c930-4183-9363-ec5ca708d7bb")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-0000621a92ce/00000000-0000-0000-0000-000061ca038b")
 		(sheetname "/Relays/Input/Sense pins/")
@@ -6285,6 +6345,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6e482747-3695-4572-9962-bf5609584706")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-000061fc3e67/00000000-0000-0000-0000-000062835e98")
 		(sheetname "/Relays/Input pins/")
@@ -6446,6 +6518,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "958cb3c7-ae7b-4bc0-9e4c-6bd61f1dedb6")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -7691,6 +7775,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a4f1d7b5-17bb-4b0b-9210-b4feb936e71e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-000061fc3e67/00000000-0000-0000-0000-000061e61da0")
 		(sheetname "/Relays/Input pins/")
@@ -7852,6 +7948,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a498e61a-df4c-4133-83b6-fb27beb52c0a")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -8290,6 +8398,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C12065"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8129fde6-3593-4e7c-8d57-73abfa37fdea")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/00000000-0000-0000-0000-0000619ffb3c/00000000-0000-0000-0000-000061a72be8")
 		(sheetname "/Control Logic/")
@@ -8502,6 +8622,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "504af3f5-21a8-4c53-bca5-d09b4d4c4a24")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -8940,6 +9072,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "95b0b72b-3308-417a-a891-ab05daf01996")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-000061fc3e67/00000000-0000-0000-0000-000061e61d85")
 		(sheetname "/Relays/Input pins/")
@@ -9101,6 +9245,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "c086e12d-08bd-4763-afc8-5b967880d341")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -9270,6 +9426,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "7b933a15-8eb0-4bfc-94c0-d567636a1caa")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-000061fc3e67/00000000-0000-0000-0000-000062835e7a")
 		(sheetname "/Relays/Input pins/")
@@ -9431,6 +9599,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e123ba0e-0db3-44e7-beb2-b473525f2700")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -9869,6 +10049,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9e5e4a06-d8ce-4b5e-bc25-99646b8a31d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-0000621a92ce/00000000-0000-0000-0000-000062835e74")
 		(sheetname "/Relays/Input/Sense pins/")
@@ -10248,6 +10440,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "0b09671c-a235-499f-add3-2d94f0dddf40")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-000061fc3e67/00000000-0000-0000-0000-000062835e92")
 		(sheetname "/Relays/Input pins/")
@@ -10409,6 +10613,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8205fc63-894c-486e-b509-cb2cc46e63fb")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -10847,6 +11063,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "39c94038-8fe7-4d1c-8c1c-a8fc4f68121a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-0000621a92ce/00000000-0000-0000-0000-000061bfe941")
 		(sheetname "/Relays/Input/Sense pins/")
@@ -11008,6 +11236,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "c1b95f4b-5c43-4dc8-9206-f6f27c150db8")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -11759,6 +11999,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C25804"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "4bf3f1ec-c855-4bcf-9b77-f8e2cad9a041")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-0000619cbbb1")
 		(sheetname "/")
@@ -11920,6 +12172,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "c1b98148-300c-46be-ac31-1e6cf74cbfc1")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -12354,6 +12618,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "86d5f909-6346-4833-be3a-85df1d3241e3")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -13061,6 +13337,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "c40e69f4-f465-4e3f-bdfe-4af199404241")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-000061fc3e67/00000000-0000-0000-0000-000061e61d97")
 		(sheetname "/Relays/Input pins/")
@@ -13491,6 +13779,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "35b86d2f-65dd-4d5b-8214-76a92815bb1f")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -14198,6 +14498,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C25804"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "3f5357a6-0ac2-4934-82c4-baceed446c8f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-0000619b627e")
 		(sheetname "/")
@@ -14632,6 +14944,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23138"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "81c83090-8ad3-4c4c-be28-5fcf6f436f95")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-0000619ffb3c/00000000-0000-0000-0000-000061a72be2")
 		(sheetname "/Control Logic/")
@@ -14793,6 +15117,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "99f50cd7-5095-4ae7-8250-50a7e6a60cbb")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -14962,6 +15298,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "b6874ee5-6f93-4357-93e0-461b80bdd604")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-0000621a92ce/00000000-0000-0000-0000-000061e61dc7")
 		(sheetname "/Relays/Input/Sense pins/")
@@ -15123,6 +15471,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "2ac63e47-ead8-4b44-a6b1-a100c089d415")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -15292,6 +15652,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "15471dd9-3214-46a6-892e-ee974d3406ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-000061fc3e67/00000000-0000-0000-0000-000062835e73")
 		(sheetname "/Relays/Input pins/")
@@ -15453,6 +15825,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23138"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5e7b0e8c-ca40-4dbb-9f76-10a06ab1f126")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -15891,6 +16275,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a4e99550-0d19-424c-89a8-646bc12a364f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-000061fc3e67/00000000-0000-0000-0000-000061be7870")
 		(sheetname "/Relays/Input pins/")
@@ -16321,6 +16717,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "b363737d-85ab-4915-88a8-abcf76da4ca2")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -18037,6 +18445,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1192c921-49ee-42c9-af5a-8d4bb5be6fd3")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -21495,6 +21915,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "7c395cc1-d890-4856-b4bb-9f0dbe77c21c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-0000621a92ce/00000000-0000-0000-0000-000061ca4bbb")
 		(sheetname "/Relays/Input/Sense pins/")
@@ -21656,6 +22088,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23138"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "3fb9dd27-1d3f-481f-97b4-7b5121b5123a")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -21825,6 +22269,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "fa023754-a462-48af-b05f-09fef85af8ab")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-0000621a92ce/00000000-0000-0000-0000-000062835e79")
 		(sheetname "/Relays/Input/Sense pins/")
@@ -21986,6 +22442,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "bf62a3a0-5d07-456f-95c8-9cda1bcaa405")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -22424,6 +22892,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "0650a4b8-0e96-43a3-92b8-7efaae0db2cb")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-0000621a92ce/00000000-0000-0000-0000-000062835e8d")
 		(sheetname "/Relays/Input/Sense pins/")
@@ -22585,6 +23065,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5d5e6a5b-f7b5-4760-b192-03529cdae2ec")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -23292,6 +23784,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "b64ecee6-917b-4fb9-96b2-f9fd3f16c19b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-0000621a92ce/00000000-0000-0000-0000-000062835e8c")
 		(sheetname "/Relays/Input/Sense pins/")
@@ -23726,6 +24230,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "c0bee6e3-279f-414c-9c81-9ed0f23a8de1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-0000621a92ce/00000000-0000-0000-0000-000062835e89")
 		(sheetname "/Relays/Input/Sense pins/")
@@ -24156,6 +24672,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "06eb4c9e-62f4-4c92-9665-019329b76d1a")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -24876,6 +25404,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "236050c4-aec8-466f-b8ae-3f0b6101f840")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-000061fc3e67/00000000-0000-0000-0000-000062835e6e")
 		(sheetname "/Relays/Input pins/")
@@ -25306,6 +25846,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "648e488e-8284-4363-a52f-fe2f77a58ed5")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -25744,6 +26296,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "b9fc972c-094f-4f5f-9850-2a7ae746d5f9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-0000621a92ce/00000000-0000-0000-0000-000061c8c3fe")
 		(sheetname "/Relays/Input/Sense pins/")
@@ -25905,6 +26469,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "67848abf-ba3a-4aae-9424-3e5a66d1559a")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -26074,6 +26650,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "2b18152b-620b-4e47-ad16-cd35bfaf42c4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061fc209f/00000000-0000-0000-0000-000061fc3e67/00000000-0000-0000-0000-000061c8c3f5")
 		(sheetname "/Relays/Input pins/")
@@ -26239,6 +26827,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23138"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e3082dec-1368-491d-b2c3-428666fac9e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-0000619c63c3")
 		(sheetname "/")
@@ -26400,6 +27000,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C23170"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ce2053a0-4377-4536-9faa-27dd30779bd0")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -29565,6 +30177,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "7fb26e7f-e096-4cda-85f5-66bb942e11f2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-0000619ffb3c/7380c902-cb2d-4407-a68e-2659344205fa")
 		(sheetname "/Control Logic/")
@@ -29732,6 +30356,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9f3ca898-bbb7-464a-a8a8-9254fc3331d5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-0000619ffb3c/4e58be03-1502-43af-b5d5-7ba1bf82fe0a")
 		(sheetname "/Control Logic/")
@@ -29866,6 +30502,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "079cb9fa-6e8e-4585-8fe4-24e54fa3651f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C426713"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "943d501f-f17f-461b-966e-0efbe731c8d1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30235,6 +30883,7 @@
 		(property "Reference" "TP7"
 			(at -2.980952 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "abdbe060-af9b-4a59-b7b4-7c2e1fbaadfc")
 			(effects
 				(font
@@ -30519,6 +31168,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "feecdee4-d5ab-4bc2-8b28-9a92245bf6b8")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -31024,6 +31685,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "d166ab73-ce99-4113-91e3-d308b7979e4a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-0000619ffb3c/6d80e055-5ce7-4b37-8c68-3325e4b7baa2")
 		(sheetname "/Control Logic/")
@@ -31158,6 +31831,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b5f70f29-edf3-41d7-84ed-6ee978f5dafd")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C5213977"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "f3421a91-21d6-4e5e-9a8e-374bcd278f00")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31540,6 +32225,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5795d24a-4150-4e21-81d6-7bef15b6b684")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C426713"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8b1dfbdb-9f4d-4006-9542-55aa6a697306")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31978,6 +32675,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C140782"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "0ea2a233-58d8-4788-a047-7c230a484c99")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-0000619ffb3c/a54fd15e-1c9e-413c-be7b-4665c1acede4")
 		(sheetname "/Control Logic/")
@@ -32076,6 +32785,7 @@
 		(property "Reference" "TP2"
 			(at -3.6 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "b4ebe89a-d12f-451c-acb4-e6774f2eef0c")
 			(effects
 				(font
@@ -32331,6 +33041,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f297410c-1a46-4f18-ad86-38599daca382")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2862279"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5243f4b8-08dd-4ccd-8a10-7b9d8c4fc6f2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32703,6 +33425,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "c15b13c9-642a-42a1-9d28-629b15bf4136")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -33855,6 +34589,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C426713"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "2fb66cc3-7f75-4828-91c1-5d577a2c84cb")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm* SOIC*7.5x10.3mm*P1.27mm*")
 		(path "/00000000-0000-0000-0000-0000619ffb3c/067d93c5-8957-4389-bdba-e6c96f4ec1fc")
 		(sheetname "/Control Logic/")
@@ -34286,6 +35032,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "27d50aca-b0b5-4713-84c5-0fe9aaced740")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-0000619ffb3c/f6329da4-7709-464c-bfc9-f18d67e2c2ae")
 		(sheetname "/Control Logic/")
@@ -34420,6 +35178,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ed48a3b2-345d-4aa0-b79a-9a36dda3e9c7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2870796"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "01981b3a-fa66-47d7-908d-bffa50287e2f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34785,6 +35555,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f65836d3-6309-4665-a210-5b7c1692dc61")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C123314"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9f551dd9-e8d3-47ac-b811-2d6759373dfb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35160,6 +35942,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C25804"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "b8782b41-a5f4-4f3a-be20-1fc88a1f016d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-0000619ffb3c/b898df23-94fc-43eb-be9b-e2ad0375fe69")
 		(sheetname "/Control Logic/")
@@ -35327,6 +36121,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C25804"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "f2ae2dc4-e23d-449f-8ade-fcbfa4ec2393")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-0000619ffb3c/02c87c84-4e9c-406a-ad07-4deed0c47b55")
 		(sheetname "/Control Logic/")
@@ -35461,6 +36267,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "57554612-ead7-4b36-a3a8-1473fc8b0099")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C6761"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "854de1e6-7591-4abc-8146-3b644f8f16f3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35919,6 +36737,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ddab2255-1be6-42a7-8bd3-3b190e7af32d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-0000619ffb3c/cf09a7ed-39d3-4e43-abf9-b89c0d84cf55")
 		(sheetname "/Control Logic/")
@@ -36280,6 +37110,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e38cc84a-14f2-4b7f-b1be-5068fa6671a6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-0000619ffb3c/f2eb57d6-4cdd-4a0c-b961-d54b2c847f16")
 		(sheetname "/Control Logic/")
@@ -36414,6 +37256,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "39837f84-6376-43a9-9b8d-e4c3f42ae403")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2862279"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5e5d4d2d-d9ab-44dd-bcbe-541e148009dc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36790,6 +37644,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "50ce5ef7-dfb6-4c6e-95c5-c180b12d29b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-0000619ffb3c/43deee60-c69b-4bdd-9dc8-3628b6d36880")
 		(sheetname "/Control Logic/")
@@ -36953,6 +37819,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "b89d935e-7de7-4abb-b3c9-bbab3fd0e277")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -37356,6 +38234,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C21190"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "fa58433b-0208-43e9-a79a-cca90c27d458")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -42129,6 +43019,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "ID"
+		(at 32.52 112.45 0)
+		(layer "F.SilkS")
+		(uuid "037123ef-9cb7-4510-950f-faeb2d7a6d8e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "10CH"
 		(at 39.4 68.96 0)
 		(layer "F.SilkS")
@@ -42926,6 +43828,18 @@
 					(xy 197.837275 115.859145) (xy 197.837275 116.035)
 				)
 			)
+		)
+	)
+	(gr_text "~{RST}"
+		(at 31.281904 107.770833 0)
+		(layer "F.SilkS")
+		(uuid "877f3bf0-5b9d-4cb9-aa03-bf4b32897b4b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "To Breakout Board"
