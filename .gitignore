@@ -22,3 +22,5 @@ fp-info-cache
 # KiCAD 6 Files #
 *-backups
 *.kicad_prl
+*.lck
+wavedrom-logic-control.json
